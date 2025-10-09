@@ -1,0 +1,13 @@
+{
+  "itemGroup.nuts": "Example Mod Tab",
+  "block.nuts.example_block": "Example Block",
+  "item.nuts.example_item": "Example Item",
+
+  "nuts.configuration.title": "Nuts Configs",
+  "nuts.configuration.section.nuts.common.toml": "Nuts Configs",
+  "nuts.configuration.section.nuts.common.toml.title": "Nuts Configs",
+  "nuts.configuration.items": "Item List",
+  "nuts.configuration.logDirtBlock": "Log Dirt Block",
+  "nuts.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nuts.configuration.magicNumber": "Magic Number"
+}
