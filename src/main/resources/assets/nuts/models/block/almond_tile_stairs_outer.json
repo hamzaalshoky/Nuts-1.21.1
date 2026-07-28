@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/slab",
+  "parent": "minecraft:block/outer_stairs",
   "textures": {
     "bottom": "nuts:block/almond_tiles",
     "side": "nuts:block/almond_tiles",
