@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bread"
+    },
+    {
+      "item": "nuts:peanut"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    }
+  ],
+  "result": {
+    "id": "nuts:pbnj_sandwich",
+    "count": 1
+  }
+}

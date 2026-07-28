@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "nuts:peanut_seeds"
+  },
+  "result": {
+    "id": "nuts:roasted_peanuts"
+  }
+}

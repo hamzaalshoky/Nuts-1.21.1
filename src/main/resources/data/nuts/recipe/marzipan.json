@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nuts:almond"
+    },
+    {
+      "item": "nuts:almond"
+    },
+    {
+      "item": "nuts:almond"
+    },
+    {
+      "item": "nuts:almond"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "id": "nuts:marzipan",
+    "count": 1
+  }
+}

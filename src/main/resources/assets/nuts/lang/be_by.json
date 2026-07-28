@@ -1,0 +1,33 @@
+{
+  "creativetab.nuts.nuts": "Nuts!",
+
+  "block.nuts.almond_tiles": "Мігдалавая плітка",
+  "block.nuts.almond_tile_stairs": "Прыступкі з мігдалавай пліткі",
+  "block.nuts.almond_tile_slab": "Пліта з мігдалавай пліткі",
+  "block.nuts.almond_tile_wall": "Сцяна з мігдалавай пліткі",
+
+  "item.nuts.almond": "Мігдал",
+  "item.nuts.biscotti": "Біскотті",
+  "item.nuts.almond_croissant": "Мігдалавы Круасан",
+  "item.nuts.almond_berry_tart": "Мігдалавы ягадны тарт",
+  "item.nuts.marzipan": "Марцыпан",
+  "item.nuts.hazelnut": "Лясны арэх",
+  "item.nuts.chocolate_truffle": "Шакаладны труфель",
+  "item.nuts.hazelnut_toast": "Ляшчынавы бутэрброд",
+  "item.nuts.nougat": "Нуга",
+  "item.nuts.dacquoise": "Дакуаз",
+  "item.nuts.peanut": "Арахіс",
+  "item.nuts.peanut_seeds": "Насеньня арахіса",
+  "item.nuts.roasted_peanuts": "Смажаны арахіс",
+  "item.nuts.peanut_butter_cookie": "Печыва з арахісавага масла",
+  "item.nuts.pbnj_sandwich": "Сэндвіч з варэньнем і арахасавім маслам",
+
+  "itemGroup.nuts": "Nuts",
+  "nuts.configuration.title": "Nuts Configs",
+  "nuts.configuration.section.nuts.common.toml": "Nuts Configs",
+  "nuts.configuration.section.nuts.common.toml.title": "Nuts Configs",
+  "nuts.configuration.items": "Item List",
+  "nuts.configuration.logDirtBlock": "Log Dirt Block",
+  "nuts.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nuts.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "all": "nuts:block/almond_tiles"
+  }
+}
