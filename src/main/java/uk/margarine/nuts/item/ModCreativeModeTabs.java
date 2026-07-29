@@ -28,6 +28,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.ALMOND_CROISSANT);
                         output.accept(ModItems.ALMOND_BERRY_TART);
                         output.accept(ModItems.MARZIPAN);
+                        output.accept(ModBlocks.HAZEL_LEAVES);
                         output.accept(ModItems.HAZELNUT);
                         output.accept(ModItems.CHOCOLATE_TRUFFLE);
                         output.accept(ModItems.HAZELNUT_TOAST);
