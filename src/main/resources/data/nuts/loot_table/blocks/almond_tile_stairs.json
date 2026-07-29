@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "nuts:almond_tile_stairs"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "nuts:blocks/almond_tile_stairs"
+}
