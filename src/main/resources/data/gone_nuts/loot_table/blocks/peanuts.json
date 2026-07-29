@@ -1,0 +1,94 @@
+{
+  "type": "minecraft:block",
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ],
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "gone_nuts:peanut",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.38
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "gone_nuts:peanuts",
+              "properties": {
+                "age": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "gone_nuts:peanut",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.70
+                },
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "gone_nuts:peanuts",
+                  "properties": {
+                    "age": "3"
+                  }
+                }
+              ],
+              "functions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 1,
+              "conditions": [
+                {
+                  "block": "gone_nuts:peanuts",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "age": "3"
+                  }
+                }
+              ],
+              "name": "gone_nuts:peanut",
+              "functions": []
+            },
+            {
+              "type": "minecraft:item",
+              "name": "gone_nuts:peanut_seeds"
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:blocks/carrots"
+}

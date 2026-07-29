@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "nuts:almond_tiles",
-    "nuts:almond_tile_stairs",
-    "nuts:almond_tile_slab",
-    "nuts:almond_tile_wall"
+    "gone_nuts:almond_tiles",
+    "gone_nuts:almond_tile_stairs",
+    "gone_nuts:almond_tile_slab",
+    "gone_nuts:almond_tile_wall"
   ]
 }
