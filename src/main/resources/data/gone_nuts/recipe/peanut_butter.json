@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "gone_nuts:roasted_peanuts"
+    },
+    {
+      "item": "gone_nuts:roasted_peanuts"
+    },
+    {
+      "item": "gone_nuts:roasted_peanuts"
+    },
+    {
+      "item": "gone_nuts:roasted_peanuts"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "gone_nuts:roasted_peanuts"
+    },
+    {
+      "item": "gone_nuts:roasted_peanuts"
+    },
+    {
+      "item": "gone_nuts:roasted_peanuts"
+    },
+    {
+      "item": "gone_nuts:roasted_peanuts"
+    }
+  ],
+  "result": {
+    "id": "gone_nuts:peanut_butter",
+    "count": 1
+  }
+}

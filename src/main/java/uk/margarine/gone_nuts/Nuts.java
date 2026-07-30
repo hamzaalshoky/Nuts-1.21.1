@@ -24,6 +24,7 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import uk.margarine.gone_nuts.block.ModBlocks;
+import uk.margarine.gone_nuts.effect.ModEffects;
 import uk.margarine.gone_nuts.item.ModCreativeModeTabs;
 import uk.margarine.gone_nuts.item.ModItems;
 
@@ -51,6 +52,7 @@ public class Nuts {
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
         ModCreativeModeTabs.register(modEventBus);
+        ModEffects.register(modEventBus);
 
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }

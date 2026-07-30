@@ -34,9 +34,10 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.HAZELNUT_TOAST);
                         output.accept(ModItems.NOUGAT);
                         output.accept(ModItems.DACQUOISE);
-                        output.accept(ModItems.PEANUT_SEEDS);
                         output.accept(ModItems.PEANUT);
+                        output.accept(ModItems.PEANUT_SEEDS);
                         output.accept(ModItems.ROASTED_PEANUTS);
+                        output.accept(ModItems.PEANUT_BUTTER);
                         output.accept(ModItems.PEANUT_BUTTER_COOKIE);
                         output.accept(ModItems.PBNJ_SANDWICH);
                     }).build());
